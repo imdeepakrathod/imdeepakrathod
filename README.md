@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+AWS;Building+Real+World+Projects" />
 # 👋 Hi, I'm Deepak Rathod
 
 💻 Full Stack Developer | React.js | Node.js | AWS
 
+![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🚀 About Me
