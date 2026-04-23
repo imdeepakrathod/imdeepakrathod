@@ -1,8 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Deepak%20Rathod&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 # 👋 Hi, I'm Deepak Rathod
 
 💻 Full Stack Developer | React.js | Node.js | AWS
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+AWS;Building+Real+World+Projects" />
 
 ## 🚀 About Me
 
