@@ -1,59 +1,65 @@
-## Hi there 👋
-
-<!--
-**imdeepakrathod/imdeepakrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hi, I'm Deepak Rathod
 
-💻 Aspiring Full Stack Developer | React.js | Node.js | JavaScript
+💻 Full Stack Developer | React.js | Node.js | AWS
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE Graduate (2025)
-* 💡 Passionate about building real-world web applications
-* ⚡ Experience in React.js, Tailwind CSS, Node.js, MongoDB
-* 🔧 Completed internship as Web Developer (OASIS INFOBYTE)
-* 🌱 Currently improving problem-solving & system design
+* 💼 Engineer Intern at Strandix System India Pvt. Ltd.
+* ⚡ Built and deployed full-stack web applications
+* ☁️ Experience with AWS deployment & CI/CD
+* 🔧 Strong in React.js, Node.js, MongoDB, and REST APIs
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB, MySQL
-**Tools:** Git, GitHub, Postman, VS Code
+**Languages:** C++, JavaScript
+**Frontend:** React.js, Redux, HTML, CSS, Tailwind CSS
+**Backend:** Node.js, Express.js, REST API, JWT
+**Database:** MongoDB, SQL
+**DevOps & Tools:** Git, GitHub, AWS, Postman, VS Code
+
+---
+
+## 💼 Experience
+
+### 👨‍💻 Engineer Intern – Strandix System India Pvt. Ltd.
+
+📅 Jan 2026 – Present
+
+* Built full-stack applications (frontend + backend)
+* Developed REST APIs using Node.js & Express
+* Designed responsive UI using React.js
+* Deployed applications on AWS
+* Worked with Git in real-world workflows
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Website
+### 🍽 Restaurant Reservation System
 
-* Full-stack app with authentication & cart system
-* Tech: React, Node.js, MongoDB
+* Full-stack app with table booking, menu, cart & orders
+* JWT authentication for admin panel
+* Tech: React.js, Node.js, MongoDB
 
-### 📝 Notes App
+---
 
-* Create, update, delete notes with clean UI
-* Tech: React, Local Storage
+### ☕ Coffee Shop Website
 
-### 🌐 Portfolio Website
+* Modern responsive UI with product showcase
+* Mobile-friendly design
+* Tech: React.js
 
-* Personal portfolio with responsive design
+---
+
+### 📝 React Blog
+
+* Blog with categories, search & routing
+* Smooth navigation using React Router
 
 ---
 
@@ -65,6 +71,5 @@ Here are some ideas to get you started:
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/rathod3231
-* Email: [deepakrathod524076@gmail.com](mailto:deepakrathod524076@gmail.com)
-
+* 📧 [deepakrathod.cse@gmail.com](mailto:deepakrathod.cse@gmail.com)
+* 🔗 LinkedIn: https://linkedin.com/in/imdeepakrathod
