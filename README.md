@@ -170,16 +170,3 @@ Worked on full-stack web applications involving:
 </p>
 
 ---
-
-## 🎯 Currently Learning
-
-```text
-TypeScript
-        ↓
-PostgreSQL
-        ↓
-Prisma
-        ↓
-Backend Architecture
-        ↓
-System Design
